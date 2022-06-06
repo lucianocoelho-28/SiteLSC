@@ -1,6 +1,8 @@
 # site Luciano Coelho
  ### Olá! Este Website foi implementado para divulgar os trabalhos desenvolvidos na grade curricular da Faculdade de Tecnologia de Carapicuiba utilizando HTML 5, CSS, Javascript, Bootstrap e PHP. Para avaliação do desenvolvimento efetue o download código fonte do site no botão abaixo.
 
+<p>Pode acessar a pagina por <a href='https://lucianocoelho-28.github.io/SiteLSC/'> Aqui</a></p>
+
 # A página SiteLSC esta organizada na seguinte estrutura na raiz:
 
 * index.html
@@ -10,7 +12,13 @@
 * hobby.html
 * pesquisa.php (apenas quando logado)
 
-# Para se logar no site, acessar com usuário: admin  e senha: 123
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
 
 
 # Descrição dos Diretórios:

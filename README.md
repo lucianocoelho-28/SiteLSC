@@ -30,4 +30,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 1. images: diretório de imagens do site
 1. js: arquivos javascript do projeto, arquivo padrões de configuração do jquery e bootstrap 
 
-# Copyright © LSC Site 2018 - 2022 - Portfólio WEB/Fatec Carapicuiba

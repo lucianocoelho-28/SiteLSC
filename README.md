@@ -16,7 +16,7 @@
 <p>Pode acessar a pagina por <a href='https://lucianocoelho-28.github.io/SiteLSC/'> Aqui</a></p>
 
 <p align="center">
-  <img alt="Site LSC" src="../images/jogos/sitelsc.png" width="100%">
+  <img class="img-responsive img-hover" src="../SiteLSC/images/jogos/sitelsc.png" alt="Site LSC">
 </p>
 
 ## 🚀 Tecnologias
